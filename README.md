@@ -1,7 +1,4 @@
 
-## Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFiles
 
-## Please refer to code notes for explanation.
 
-### Output Link : https://vishnupriya-whitehatjr.github.io/PoolGame-MatterJs/
+### Output Link :  https://aashi-boop.github.io/pool-game-anuj/
